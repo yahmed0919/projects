@@ -1,3 +1,4 @@
+// By Yaseen A.
 // Set up Google Analytics
 // Replace 'YOUR_TRACKING_ID' with your actual tracking ID
 (function (i, s, o, g, r, a, m) {

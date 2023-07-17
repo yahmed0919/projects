@@ -1,3 +1,4 @@
+# By Yaseen A.
 import matplotlib.pyplot as plt
 
 # Sample data
